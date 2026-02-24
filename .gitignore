@@ -1,0 +1,5 @@
+backups/
+.trae/
+node_modules/
+.DS_Store
+*.zip
